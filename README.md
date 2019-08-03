@@ -1,1 +1,1 @@
-# gd
+# Subdomain Takeover BY Bug Mania
