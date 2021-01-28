@@ -1,0 +1,59 @@
+resolvers:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 8.8.8.8
+  - 8.8.4.4
+  - 9.9.9.9
+  - 9.9.9.10
+  - 77.88.8.8
+  - 77.88.8.1
+  - 208.67.222.222
+  - 208.67.220.220
+sources:
+  - alienvault
+  - archiveis
+  - binaryedge
+  - bufferover
+  - censys
+  - certspotter
+  - certspotterold
+  - commoncrawl
+  - crtsh
+  - dnsdumpster
+  - dnsdb
+  - entrust
+  - github
+  - hackertarget
+  - ipv4info
+  - intelx
+  - passivetotal
+  - rapiddns
+  - securitytrails
+  - shodan
+  - sitedossier
+  - spyse
+  - sublist3r
+  - threatcrowd
+  - threatminer
+  - urlscan
+  - virustotal
+  - waybackarchive
+  - zoomeye
+binaryedge: []
+censys: []
+certspotter: []
+chaos:
+- bc035c94be99aa9348cf7a14312d50b7f6e0ea146841780e956028e0cceff2a5
+dnsdb: []
+github:
+- d27d68b0bd0f666f04d17aff946013af46450725
+intelx: []
+passivetotal: []
+securitytrails: []
+shodan:
+- e88EjeBvXalbsFpiWZEJU8ZzU0f4bCw5
+spyse: []
+urlscan: []
+virustotal:
+- 280a613f46c8cc8b2b0372e9a250d1fa39c50f0cff12af7983448c5948ab3a51
+zoomeye: []
