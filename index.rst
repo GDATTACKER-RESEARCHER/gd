@@ -1,1 +1,1 @@
-<h1>Subdomain Takeover By BugMania</h1>
+<h1>Subdomain Takeover By GD ATTACKER</h1>
